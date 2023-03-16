@@ -1,0 +1,5 @@
+# Automatic Door Light
+Door sensor for automatic lighting control is widely being developed for energy saving and security purposes. An infrared door sensor based on electrical and electronics combinational circuit technology is used to develop the automatic light switching system. The automatic light switching system will lead to energy saving and efficient energy usage which could benefit every single individual. Furthermore, the system is developed with safety environment when switching `ON' or `OFF' the light during the room occupancy or unoccupancy. Apart from safety environment, it also comprises manual switching in case user needs to have light during the day. Basically, this system is designed to be installed in the restroom.
+
+In this project we are using Dooor Sensor as a Pull-up resistor.when switch is close the LED in OFF state,when Switch is open the LED in ON state.
+Note: Switch close mean Door close and switch open mean Door open according this Door open or close w.r.t this LED will be in  ON or OFF state
